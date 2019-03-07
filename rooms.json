@@ -17,24 +17,24 @@
                     "id": 1,
                     "event_name": "iOS Guild",
                     "creator": "Tomasz Szulc",
-                    "startingAt": 1551942000,
-                    "endingAt": 1551949200,
+                    "starting_at": 1551942000,
+                    "ending_at": 1551949200,
                     "state": "confirmed"
                 },
                 {
                     "id": 2,
                     "event_name": "Flutter Hackathon Brief",
                     "creator": "Krzysztof Krawczyński",
-                    "startingAt": 1551952800,
-                    "endingAt": 1551954600,
+                    "starting_at": 1551952800,
+                    "ending_at": 1551954600,
                     "state": "new"
                 },
                 {
                     "id": 3,
                     "event_name": "Very Important Lunch",
                     "creator": "Filip Winiarz",
-                    "startingAt": 1551960000,
-                    "endingAt": 1551963600,
+                    "starting_at": 1551960000,
+                    "ending_at": 1551963600,
                     "state": "confirmed"
                 }
             ]
@@ -64,16 +64,16 @@
                     "id": 4,
                     "event_name": "Phone Interview",
                     "creator": "Marcin Adamski",
-                    "startingAt": 1551967200,
-                    "endingAt": 1551972600,
+                    "starting_at": 1551967200,
+                    "ending_at": 1551972600,
                     "state": "new"
                 },
                 {
                     "id": 5,
                     "event_name": "New Employee Onboarding",
                     "creator": "Aleksandr Tumanov",
-                    "startingAt": 1551954300,
-                    "endingAt": 1551956400,
+                    "starting_at": 1551954300,
+                    "ending_at": 1551956400,
                     "state": "confirmed"
                 }
             ]

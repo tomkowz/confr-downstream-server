@@ -1,7 +1,7 @@
 {
     "rooms": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Red 4.65",
             "floor": 4,
             "meta": {
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Orange 4.64",
             "floor": 4,
             "meta": {
@@ -51,7 +51,7 @@
             "events": []
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Orange 4.63",
             "floor": 4,
             "meta": {

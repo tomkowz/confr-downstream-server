@@ -1,0 +1,85 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "name": "Red 4.65",
+            "floor": 4,
+            "color": 16715565,
+            "meta": {
+                "projector": {
+                    "hdmi": true
+                },
+                "seats": 12,
+                "whiteboard": true
+
+            },
+            "events": [
+                {
+                    "id": 1,
+                    "event_name": "iOS Guild",
+                    "creator": "Tomasz Szulc",
+                    "starting_at": 1551942000000,
+                    "ending_at": 1551949200000,
+                    "state": "confirmed"
+                },
+                {
+                    "id": 2,
+                    "event_name": "Flutter Hackathon Brief",
+                    "creator": "Krzysztof Krawczyński",
+                    "starting_at": 1551952800000,
+                    "ending_at": 1551954600000,
+                    "state": "new"
+                },
+                {
+                    "id": 3,
+                    "event_name": "Very Important Lunch",
+                    "creator": "Filip Winiarz",
+                    "starting_at": 1551960000000,
+                    "ending_at": 1551963600000,
+                    "state": "confirmed"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Orange 4.64",
+            "floor": 4,
+            "color": 16735744,
+            "meta": {
+                "projector": null,
+                "seats": 5,
+                "whiteboard": true
+            },
+            "events": []
+        },
+        {
+            "id": 3,
+            "name": "Purple 1.13",
+            "floor": 1,
+            "color": 8940476,
+            "meta": {
+                "projector": null,
+                "seats": 2,
+                "whiteboard": false
+            },
+            "events": [
+                {
+                    "id": 4,
+                    "event_name": "Phone Interview",
+                    "creator": "Marcin Adamski",
+                    "starting_at": 1551967200000,
+                    "ending_at": 1551972600000,
+                    "state": "new"
+                },
+                {
+                    "id": 5,
+                    "event_name": "New Employee Onboarding",
+                    "creator": "Aleksandr Tumanov",
+                    "starting_at": 1551954300000,
+                    "ending_at": 1551956400000,
+                    "state": "confirmed"
+                }
+            ]
+        }
+    ]
+}

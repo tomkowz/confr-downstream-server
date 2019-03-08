@@ -18,24 +18,24 @@
                     "id": 1,
                     "event_name": "iOS Guild",
                     "creator": "Tomasz Szulc",
-                    "starting_at": 1551942000000,
-                    "ending_at": 1551949200000,
+                    "starting_at": 1552032000000,
+                    "ending_at": 155203200000,
                     "state": "confirmed"
                 },
                 {
                     "id": 2,
                     "event_name": "Flutter Hackathon Brief",
                     "creator": "Krzysztof Krawczyński",
-                    "starting_at": 1551952800000,
-                    "ending_at": 1551954600000,
+                    "starting_at": 1552032800000,
+                    "ending_at": 1552034600000,
                     "state": "new"
                 },
                 {
                     "id": 3,
                     "event_name": "Very Important Lunch",
                     "creator": "Filip Winiarz",
-                    "starting_at": 1551960000000,
-                    "ending_at": 1551963600000,
+                    "starting_at": 1552030000000,
+                    "ending_at": 1552033600000,
                     "state": "confirmed"
                 }
             ]
@@ -67,16 +67,16 @@
                     "id": 4,
                     "event_name": "Phone Interview",
                     "creator": "Marcin Adamski",
-                    "starting_at": 1551967200000,
-                    "ending_at": 1551972600000,
+                    "starting_at": 1552037200000,
+                    "ending_at": 1552032600000,
                     "state": "new"
                 },
                 {
                     "id": 5,
                     "event_name": "New Employee Onboarding",
                     "creator": "Aleksandr Tumanov",
-                    "starting_at": 1551954300000,
-                    "ending_at": 1551956400000,
+                    "starting_at": 1552034300000,
+                    "ending_at": 1552036400000,
                     "state": "confirmed"
                 }
             ]
